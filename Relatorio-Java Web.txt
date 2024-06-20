@@ -1,0 +1,33 @@
+20/06
+
+Começamos um novo conteudo curricular Java Web e excluimos o repositorio eventos para criar um novo repositorio com as dependencias.
+usamos spring para colocar as dependencias
+
+-Lombko
+-Spring oot dev toos
+-Spring Web 
+-Spring Data JPA
+-MySQL Driver
+
+colocamos as ultimas dependencias que faltava usando spring e intellij e recolocamos o mavem no para baixar as independencias.
+O professor explico algumas coisas do intellij tipo o test e usado para testar algum tipo de codigo ou algo do tipo para nao afetar o nosso
+ projeto e o main tudo que colocarmos nele ira afetar nosso projeto principal.
+O professor começou a explicar sobre API de eventos onde tem o repositorio o classes (model) a JPA e o controller onde dentro dele tem coisas tipo
+
+/buscar
+/buscar/id
+/adicionar
+/remover
+
+E tem o Front End que pede e recebe as informaçoes do API de eventos que pega as informaçoes do Database que manda as informaçoes para ele que manda para o Front End
+E sendo sincero eu não sei explicar o que cada um faz mesmo entendendo não sei explicar.
+Criamos um pacote no intellij "classes.tipo"a
+Criamos as classe tipo a classe endereco e  para moderar as informaçoes colocamos algumas coisas tipo
+
+@Entity
+@Table
+@Setter
+@AllArgConstructor
+@NoAllArgConstructor
+
+colocanos tudo que fizemos no git hub

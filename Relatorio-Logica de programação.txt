@@ -1,0 +1,17 @@
+18/04
+
+Fizemos um jogo de advinhação e colocamos no GitHub
+
+19/05
+
+Criamos uma verção do jogo de advinhação porque alguns colegas nao tinham.
+Feito o menu e estrutura do jogo utlizando estrutura de desisão (IF..else).
+No jogo o usuario informava un número e o jogo informava se o jogador tinha acertado o número ou não.
+Onde testamos e o professor ficou explicando como funcionava.
+
+
+23/05
+
+Colocamos a lógica do jogo, colocando estrutura de laço de repetição, onde o jogador poderia jogar mais de uma vez.
+para isso foi utilizamos o laço For.
+Baixando o projeto para a Situação de Aprendizagem usando o Spring Initializar
