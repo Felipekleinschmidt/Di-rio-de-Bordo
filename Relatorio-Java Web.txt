@@ -31,3 +31,6 @@ Criamos as classe tipo a classe endereco e  para moderar as informaçoes colocam
 @NoAllArgConstructor
 
 colocanos tudo que fizemos no git hub
+
+01/08
+mechemos com o eventos api no intelig e criamos um comtroll no intelig e o professor explicou um pouco sobre o controll e como funciona e sobre os repositorios
