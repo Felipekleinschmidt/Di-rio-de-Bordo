@@ -34,3 +34,11 @@ colocanos tudo que fizemos no git hub
 
 01/08
 mechemos com o eventos api no intelig e criamos um comtroll no intelig e o professor explicou um pouco sobre o controll e como funciona e sobre os repositorios
+
+08/08
+
+Nos fomos num laboratorio onde tinha um robo que o prfessor tava eplicando como programar ele e como tinha sido o processo de programar ele e continuamos mexendo no intlij
+
+15/08
+
+fizemos controlllers para midia,usuario,ingresso,fonecerdor,cliente 
