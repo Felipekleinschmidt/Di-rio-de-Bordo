@@ -46,3 +46,7 @@ fizemos controlllers para midia,usuario,ingresso,fonecerdor,cliente
 22/08
 
 Terminamos a api e testamos ela no postmam e o professor falou sobre o trabalho que teremos que apresentar na proxima aula
+
+29/08
+
+começamos e terminamos os slides que teremos que apresentar aula que vem
